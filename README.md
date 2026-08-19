@@ -17,25 +17,26 @@
 
 ## 👋 About Me
 
-I'm a self-taught developer who's been writing code since **2022**, mostly living in **JavaScript, HTML, and CSS**. My main focus has always been building things people actually use — **Discord bots** with `discord.js` and **websites** end-to-end, from the frontend down to the backend logic that powers them.
+I'm a self taught developer who's been writing code since **2022**, mostly living in **JavaScript, HTML, and CSS**. My main focus has always been building things people actually use — **Discord bots** with `discord.js` and **websites** end-to-end, from the frontend down to the backend logic that powers them.
 
-I spent a few years building and running Discord bots that grew to serve thousands of communities, then stepped away from coding for a while. As of **August 2026**, I'm back and actively developing new projects — this profile is the start of that comeback.
+I spent a few years building and running Discord bots that grew to serve thousands of communities, then stepped away from coding for a while. As of **August 2026**, I'm back and actively developing new projects - this profile is the start of that comeback.
 
 ```js
 const lachlan = {
   role: "Discord Bot & Web Developer",
   codingSince: 2022,
   mainLanguages: ["JavaScript", "HTML", "CSS"],
-  alsoUses: ["TypeScript", "Node.js", "discord.js", "React", "Python"],
-  focus: ["Discord bots", "Websites"],
+  alsoUses: ["TypeScript", "Node.js", "discord.js", "React", "Python", "MongoDB"],
+  focus: ["Discord bots", "Websites", "Freelance commission work"],
   status: "🚧 rebuilding & shipping new projects in 2026",
 };
 ```
 
 - 🔭 Currently building something new — details soon 👀
 - 🌱 Sharpening my TypeScript and React after a break from coding
+- 💼 Previously done freelance commission work building projects for other developers
 - 💬 Ask me about Discord bots, `discord.js`, or scaling a bot to thousands of servers
-- ⚡ Fun fact: ReviewsBot, one of my earlier projects, was running in **10,000+ Discord servers** at its peak
+- ⚡ Fun fact: ReviewsBot, the project I learnt , was running in **10,000+ Discord servers** at its peak
 
 <br/>
 
@@ -54,6 +55,10 @@ const lachlan = {
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+
+**Databases**
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 **Tools**
 
@@ -87,7 +92,8 @@ The largest feedback/vouch bot on Discord at its peak — helped thousands of tr
 
 A Discord bump/promotion bot built to help server owners grow visibility and stay active on bump-listing platforms.
 
-<img src="https://img.shields.io/badge/Built-2024-1a1a2e?style=for-the-badge&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Servers-600%2B-B537F2?style=for-the-badge&labelColor=0d1117" /><br/>
+<img src="https://img.shields.io/badge/Built-2024-1a1a2e?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Status-Retired-555?style=for-the-badge" />
 
 **Stack:** discord.js · Node.js
@@ -99,23 +105,6 @@ A Discord bump/promotion bot built to help server owners grow visibility and sta
 <div align="center">
 <sub>Both projects are retired — I'm currently building what comes next. ⭐ Watch this space.</sub>
 </div>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<table width="100%">
-<tr>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=lach1anm&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B537F2&icon_color=B537F2" />
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lach1anm&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B537F2" />
-</td>
-</tr>
-</table>
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=lach1anm&theme=radical&hide_border=true&background=0D1117&ring=B537F2&fire=B537F2&currStreakLabel=B537F2" />
 
 <br/>
 
