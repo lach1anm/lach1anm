@@ -36,7 +36,7 @@ const lachlan = {
 - 🌱 Sharpening my TypeScript and React after a break from coding
 - 💼 Previously done freelance commission work building projects for other developers
 - 💬 Ask me about Discord bots, `discord.js`, or scaling a bot to thousands of servers
-- ⚡ Fun fact: ReviewsBot, the project I learnt , was running in **10,000+ Discord servers** at its peak
+- ⚡ Fun fact: ReviewsBot, my first project, was running in **10,000+ Discord servers** at its peak
 
 <br/>
 
